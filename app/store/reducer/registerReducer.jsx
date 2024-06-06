@@ -43,7 +43,8 @@ export const registerSlice = createSlice({
             email: null,
             password: null,
             birthDate: null
-        }}
+        }
+    }
   },
 })
 
